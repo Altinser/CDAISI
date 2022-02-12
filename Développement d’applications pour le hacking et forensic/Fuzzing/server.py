@@ -1,7 +1,7 @@
 import socket
 
-user = "ebel"
-password = "otop"
+user = "1234"
+password = "1234"
 
 receive_user, receive_password = "", ""
 
